@@ -1,0 +1,1489 @@
+uniqode.slots.from([
+    // mobile
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-sidebar_1', ['fluid', [1, 1], [200, 200], [250, 250], [300, 50], [300, 100], [300, 250], [300, 300], [320, 50], [320, 100], [336, 280]], 'div-gpt-ad-1570188672799-0','mobile',['homepage','category','post','gallery','page']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-sidebar_2', ['fluid', [200, 200], [250, 250], [300, 50], [300, 100], [300, 250], [300, 300], [320, 50], [320, 100], [336, 280]], 'div-gpt-ad-1570188963025-0','mobile',['homepage','post']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-sidebar_3', ['fluid', [200, 200], [250, 250], [300, 50], [300, 100], [300, 250], [300, 300], [320, 50], [320, 100], [336, 280]], 'div-gpt-ad-1570189786063-0','mobile',['homepage']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-sidebar_4', ['fluid', [200, 200], [250, 250], [300, 50], [300, 100], [300, 250], [300, 300], [320, 50], [320, 100], [336, 280]], 'div-gpt-ad-1579697781298-0','mobile',['homepage']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-sidebar_5', ['fluid', [200, 200], [250, 250], [300, 50], [300, 100], [300, 250], [300, 300], [320, 50], [320, 100], [336, 280]], 'div-gpt-ad-1579697810045-0','mobile',['homepage']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-billboard_1', ['fluid', [250, 250], [300, 50], [300, 100], [300, 250], [300, 300], [320, 50], [320, 100], [336, 280]], 'div-gpt-ad-1579697132983-0','mobile',['homepage','category']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-billboard_2', ['fluid', [250, 250], [300, 50], [300, 100], [300, 250], [300, 300], [320, 50], [320, 100], [336, 280]], 'div-gpt-ad-1579697480833-0','mobile',['homepage','category']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-billboard_3', ['fluid', [250, 250], [300, 50], [300, 100], [300, 250], [300, 300], [320, 50], [320, 100], [336, 280]], 'div-gpt-ad-1579697502380-0','mobile',['homepage','category']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-billboard_4', ['fluid', [250, 250], [300, 50], [300, 100], [300, 250], [300, 300], [320, 50], [320, 100], [336, 280]], 'div-gpt-ad-1579697526766-0','mobile',['homepage','category']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-billboard_5', ['fluid', [250, 250], [300, 50], [300, 100], [300, 250], [300, 300], [320, 50], [320, 100], [336, 280]], 'div-gpt-ad-1579697547330-0','mobile',['homepage','category']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-branding_top', [[250, 250], [300, 50], [300, 100], [300, 250], [320, 50], [320, 100]], 'div-gpt-ad-1579696652481-0','mobile',['homepage','category','post','branding']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-intext_1', ['fluid', [1, 1], [200, 200], [250, 250], [300, 50], [300, 100], [300, 250], [300, 300], [320, 50], [320, 100], [320, 180], [336, 280]], 'div-gpt-ad-1579698597025-0','mobile',['post']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-intext_2', ['fluid', [1, 1], [200, 200], [250, 250], [300, 50], [300, 100], [300, 250], [300, 300], [320, 50], [320, 100], [320, 180], [336, 280]], 'div-gpt-ad-1579699052884-0','mobile',['post']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-intext_3', ['fluid', [1, 1], [200, 200], [250, 250], [300, 50], [300, 100], [300, 250], [300, 300], [320, 50], [320, 100], [320, 180], [336, 280]], 'div-gpt-ad-1579699065131-0','mobile',['post']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-intext_4', ['fluid', [1, 1], [200, 200], [250, 250], [300, 50], [300, 100], [300, 250], [300, 300], [320, 50], [320, 100], [320, 180], [336, 280]], 'div-gpt-ad-1579699111013-0','mobile',['post']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-intext_5', ['fluid', [200, 200], [250, 250], [300, 50], [300, 100], [300, 250], [300, 300], [320, 50], [320, 100], [336, 280]], 'div-gpt-ad-1579699134066-0','mobile',['post']],
+    //['/1033329/RomaniaTV.net/RomaniaTV_net-intext_top', ['fluid', [200, 200], [250, 250], [300, 50], [300, 100], [300, 250], [300, 300], [320, 50], [320, 100], [336, 280]], 'div-gpt-ad-1579698495291-0','mobile',['post']],
+    // desktop
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-sidebar_1', ['fluid', [200, 200], [250, 250], [300, 250], [300, 300], [336, 280]], 'div-gpt-ad-1570188672799-0','desktop',['homepage','category']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-sidebar_2', ['fluid', [200, 200], [250, 250], [300, 250], [300, 300], [336, 280]], 'div-gpt-ad-1570188963025-0','desktop',['homepage']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-sidebar_3', ['fluid', [200, 200], [250, 250], [300, 250], [300, 300], [336, 280]], 'div-gpt-ad-1570189786063-0','desktop',['homepage']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-sidebar_4', ['fluid', [200, 200], [250, 250], [300, 250], [300, 300], [336, 280]], 'div-gpt-ad-1579697781298-0','desktop',['homepage']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-sidebar_5', ['fluid', [200, 200], [250, 250], [300, 250], [300, 300], [336, 280]], 'div-gpt-ad-1579697810045-0','desktop',['homepage']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-billboard_1', [[728, 90], [970, 90], [970, 200], [970, 250], [980, 200], [980, 250], [990, 90], [990, 150], [990, 200], [990, 250]], 'div-gpt-ad-1579697132983-0','desktop',['homepage','category']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-billboard_2', [[728, 90], [970, 90], [970, 200], [970, 250], [980, 200], [980, 250], [990, 90], [990, 150], [990, 200], [990, 250]], 'div-gpt-ad-1579697480833-0','desktop',['homepage','category']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-billboard_3', [[728, 90], [970, 90], [970, 200], [970, 250], [980, 200], [980, 250], [990, 90], [990, 150], [990, 200], [990, 250]], 'div-gpt-ad-1579697502380-0','desktop',['homepage','category']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-billboard_4', [[728, 90], [970, 90], [970, 200], [970, 250], [980, 200], [980, 250], [990, 90], [990, 150], [990, 200], [990, 250]], 'div-gpt-ad-1579697526766-0','desktop',['homepage','category']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-billboard_5', [[728, 90], [970, 90], [970, 200], [970, 250], [980, 200], [980, 250], [990, 90], [990, 150], [990, 200], [990, 250]], 'div-gpt-ad-1579697547330-0','desktop',['homepage','category']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-branding_top', [[728, 90], [970, 90], [970, 200], [970, 250], [980, 200], [980, 250], [990, 90], [990, 150], [990, 200], [990, 250], [1200, 200], [1290, 200]], 'div-gpt-ad-1579696652481-0','desktop',['homepage','category','post','branding']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-intext_1', ['fluid', [1, 1], [300, 250], [300, 300], [336, 280], [468, 60], [468, 90], [468, 120], [468, 250], [500, 90], [500, 160], [580, 150], [580, 400], [600, 160], [640, 100], [640, 150], [640, 160], [640, 200], [640, 360]], 'div-gpt-ad-1579698597025-0','desktop',['post']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-intext_2', ['fluid', [1, 1], [300, 250], [300, 300], [336, 280], [468, 60], [468, 90], [468, 120], [468, 250], [500, 90], [500, 160], [580, 150], [580, 400], [600, 160], [640, 100], [640, 150], [640, 160], [640, 200], [640, 360]], 'div-gpt-ad-1579699052884-0','desktop',['post']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-intext_3', ['fluid', [1, 1], [300, 250], [300, 300], [336, 280], [468, 60], [468, 90], [468, 120], [468, 250], [500, 90], [500, 160], [580, 150], [580, 400], [600, 160], [640, 100], [640, 150], [640, 160], [640, 200], [640, 360]], 'div-gpt-ad-1579699065131-0','desktop',['post']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-intext_4', ['fluid', [1, 1], [300, 250], [300, 300], [336, 280], [468, 60], [468, 90], [468, 120], [468, 250], [500, 90], [500, 160], [580, 150], [580, 400], [600, 160], [640, 100], [640, 150], [640, 160], [640, 200], [640, 360]], 'div-gpt-ad-1579699111013-0','desktop',['post']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-intext_5', ['fluid', [300, 250], [300, 300], [336, 280], [468, 60], [468, 90], [468, 120], [468, 250], [500, 90], [500, 160], [580, 150], [580, 400], [600, 160], [640, 100], [640, 150], [640, 160], [640, 200], [640, 360]], 'div-gpt-ad-1579699134066-0','desktop',['post']],
+    //['/1033329/RomaniaTV.net/RomaniaTV_net-intext_top', ['fluid', [300, 250], [300, 300], [336, 280], [468, 60], [468, 90], [468, 120], [468, 250], [500, 90], [500, 160], [580, 150], [580, 400], [600, 160], [640, 100], [640, 150], [640, 160], [640, 200], [640, 360]], 'div-gpt-ad-1579698495291-0','desktop',['post']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-sidebar_1', ['fluid', [200, 200], [250, 250], [300, 250], [300, 300], [300, 600], [336, 280]], 'div-gpt-ad-1570188672799-0','desktop',['post','gallery','page']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-sidebar_2', ['fluid', [200, 200], [250, 250], [300, 250], [300, 300], [300, 600], [336, 280]], 'div-gpt-ad-1570188963025-0','desktop',['post']],
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-sidebar_3', ['fluid', [200, 200], [250, 250], [300, 250], [300, 300], [300, 600]], 'div-gpt-ad-1570189786063-0','desktop',['post']],
+    // special
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-1x1_special', [1, 1], 'div-gpt-ad-1570188116863-0', 'any',['homepage','category','post']],
+    // video
+    ['/1033329/RomaniaTV.net/RomaniaTV_net-instream_floating', [], 'hbVideoAdUnit',['any'],[],'video'],
+]);
+
+// preflight config
+(()=>{
+    // Branding article
+    if (typeof uniqode.stack.page.category === 'object' && uniqode.stack.page.category.includes('Strabag')) uniqode.stack.page.section = 'branding';
+    // gallery
+    if (window.location.pathname.match(/^\/poze\/./i)) {
+        uniqode.stack.page.category = ['gallery'];
+        uniqode.stack.page.section = 'gallery';
+    }
+    // live page
+    if (uniqode.stack.page.section == 'page' && uniqode.stack.page.article == '544359') {
+        uniqode.stack.page.category = 'LIVE';
+    }
+
+    // floating off - artids
+    if (['8751595','8754025','8753170','8750692','8746000','8753179','8741542','8718679'].includes(uniqode.stack.page.article))
+        uniqode.stack.page.floff = 1;
+})();
+
+uniqode.target.keys({
+    category: "cat_romaniatv", 
+    subcategory: null,
+    article: "aid_romaniatv", 
+    client: null, 
+    tags: null,
+    adsafe: 'adsafe', 
+});
+
+uniqode.target.add('ts', () => {return Math.floor(Math.random()*4)});
+
+uniqode.wpmed.as('ua');
+uniqode._isMob = uniqode.wpmed.is('mobile');
+
+uniqode.slots.filter(uniqode.wpmed.is(), uniqode.stack.page.section);
+
+uniqode.adAgent.set('div-gpt-ad-1570188116863-0', {cntr: 0, crad: 0, kmiha: 0, freq: 0});
+uniqode.ffy.set('div-gpt-ad-1570188116863-0', {state: 0});
+uniqode.adAgent.set('div-gpt-ad-1579697132983-0', {kmiha: 0});
+
+// /1033329/RomaniaTV.net/RomaniaTV_net-intext_1
+uniqode.slots.setHB('div-gpt-ad-1579698597025-0', [
+    {
+        code: 'div-gpt-ad-1579698597025-0', 
+        mediaTypes: {banner: {sizes: [[300, 250], [336, 280]]}},
+        bids: uniqode._isMob ? [
+            {bidder: "adf",params:{mid:1875694}},
+            {bidder: "teads", params: {placementId: 220365, pageId: 204121}},
+            {bidder: "projectagora", params: {placementId: 32338871}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: 'osHST8IwjP', supplyType: 'site'}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300", m: 1}},  
+            {bidder: "ogury", params: {assetKey: "OGY-F0B5AE24F959", adUnitId: "wm-hb-iart-romani-thema-t3kdyru6hfjw"}},        
+            {bidder: "rubicon", params: {zoneId: 3476010, siteId: 554796, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207804, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_m300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'DHK5Qfa2CW', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8151'}},
+        ] : [
+            {bidder: "adf",params:{mid:1875693}}, 
+            {bidder: "teads", params: {placementId: 220365, pageId: 204121}},
+            {bidder: "projectagora", params: {placementId: 32330815}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: 'ncQ1Agrjc9', supplyType: 'site'}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300", m: 0}},
+            {bidder: "ogury", params: {assetKey: "OGY-F0B5AE24F959", adUnitId: "wm-hb-iart-romani-thema-t3kdyru6hfjw"}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207810, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'YeonwFZOtC', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8149'}},
+        ]
+    },
+    { 
+        code: 'div-gpt-ad-1579698597025-0',
+        mediaTypes: {video: {
+            context: "outstream", 
+            useCacheKey: true, 
+            playerSize: uniqode._isMob ? [[320,180]] : [[640,360]],
+            placement: 2,
+            api: [1,2],
+            protocols: [1,2,3,7],
+            skip: 1,
+            skippable:true,
+            mimes:["video/mp4","video/mpeg","video/webm","video/m4v","video/x-ms-wmv","video/x-flv"],
+            playbackmethod: [2],
+            playback_method:"auto_play_sound_off",
+            frameworks: [1,2],
+            maxduration: 180,
+            linearity: 1,
+        }},
+        bids: uniqode._isMob ? [
+            {bidder: "adf",params:{mid:1875683}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979124,formatId:131023}},
+            {bidder: "richaudience", params:{ pid: 'I3T5tHkMir', supplyType: 'site'}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554, size_id: 203}},
+            {bidder: "pubmatic", params: {publisherId: "156577", adSlot: "6063693"}},
+            {bidder: "gm_richaudience", params:{ pid: '7T0WaR5nfj', supplyType: 'site'}},
+            {bidder: "gm_smartadserver", params:{siteId:669370,pageId:1999897,formatId:70770}},
+        ] : [
+            {bidder: "adf",params:{mid:1875682}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979124,formatId:131024}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554, size_id: 203}},
+            {bidder: "richaudience", params:{ pid: 'aZ7fRLpVXl', supplyType: 'site'}},
+            {bidder: "pubmatic", params: {publisherId: "156577", adSlot: "6063693"}},
+            {bidder: "gm_richaudience", params:{ pid: '7T0WaR5nfj', supplyType: 'site'}},
+            {bidder: "gm_smartadserver", params:{siteId:669370,pageId:1999897,formatId:70770}},
+        ],
+        renderer: {
+            url: 'https://app.dejacast.com/player/m5pR7yuG/outstream.js',
+            render: function (bid) {
+                bid.renderer.push(() => {
+                    uniqode.lgg.info('Render video outstream BID for: ' + bid.adUnitCode);
+                    uniqode.lgg.info(bid, 'info', 'BID data');
+                    uniqode.lgg.info("Invoke Outstream player with vastUrl params:");
+                    uniqode.lgg.info('vastUrL: ' + bid.vastUrl);
+                    uniqode.lgg.info('container: ' + bid.adUnitCode);
+                    invokePlayerOutstream(bid.vastUrl , bid.adUnitCode);
+                });
+            }
+        }
+    }
+]);
+
+// /1033329/RomaniaTV.net/RomaniaTV_net-intext_2
+uniqode.slots.setHB('div-gpt-ad-1579699052884-0', [
+    {
+        code: 'div-gpt-ad-1579699052884-0', 
+        mediaTypes: {banner: {sizes: [[300, 250], [336, 280]]}},
+        bids: uniqode._isMob ? [
+            {bidder: "adf",params:{mid:1875696}},
+            {bidder: "teads", params: {placementId: 220365, pageId: 204121}},
+            {bidder: "projectagora", params: {placementId: 32338872}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: 'J0V1V6McKY', supplyType: 'site'}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300_2", m: 1}},
+            {bidder: "ogury", params: {assetKey: "OGY-F0B5AE24F959", adUnitId: "wm-hb-iart-romani-thema-t3kdyru6hfjw"}},
+            {bidder: "rubicon", params: {zoneId: 3476010, siteId: 554796, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207804, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_m300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'DHK5Qfa2CW', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8151'}},
+        ] : [
+            {bidder: "adf",params:{mid:1875695}}, 
+            {bidder: "teads", params: {placementId: 220365, pageId: 204121}},
+            {bidder: "projectagora", params: {placementId: 32330816}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: 'N35bHBtkyh', supplyType: 'site'}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300_2", m: 0}},
+            {bidder: "ogury", params: {assetKey: "OGY-F0B5AE24F959", adUnitId: "wm-hb-iart-romani-thema-t3kdyru6hfjw"}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207810, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'YeonwFZOtC', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8149'}},
+        ]
+    },
+    { 
+        code: 'div-gpt-ad-1579699052884-0',
+        mediaTypes: {video: {
+            context: "outstream", 
+            useCacheKey: true, 
+            playerSize: uniqode._isMob ? [[320,180]] : [[640,360]],
+            placement: 2,
+            api: [1,2],
+            protocols: [1,2,3,7],
+            skip: 1,
+            skippable:true,
+            mimes:["video/mp4","video/mpeg","video/webm","video/m4v","video/x-ms-wmv","video/x-flv"],
+            playbackmethod: [2],
+            playback_method:"auto_play_sound_off",
+            frameworks: [1,2],
+            maxduration: 180,
+            linearity: 1,
+        }},
+        bids: uniqode._isMob ? [
+            {bidder: "adf",params:{mid:1875685}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979124,formatId:131023}},
+            {bidder: "richaudience", params:{ pid: 'u4yKjA6JFw', supplyType: 'site'}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554, size_id: 203}},
+            {bidder: "pubmatic", params: {publisherId: "156577", adSlot: "6063693"}},
+            {bidder: "gm_richaudience", params:{ pid: '7T0WaR5nfj', supplyType: 'site'}},
+            {bidder: "gm_smartadserver", params:{siteId:669370,pageId:1999897,formatId:70770}},
+        ] : [
+            {bidder: "adf",params:{mid:1875684}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979124,formatId:131024}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554, size_id: 203}},
+            {bidder: "richaudience", params:{ pid: 'jF32UMFBCZ', supplyType: 'site'}},
+            {bidder: "pubmatic", params: {publisherId: "156577", adSlot: "6063693"}},
+            {bidder: "gm_richaudience", params:{ pid: '7T0WaR5nfj', supplyType: 'site'}},
+            {bidder: "gm_smartadserver", params:{siteId:669370,pageId:1999897,formatId:70770}},
+        ],
+        renderer: {
+            url: 'https://app.dejacast.com/player/m5pR7yuG/outstream.js',
+            render: function (bid) {
+                bid.renderer.push(() => {
+                    uniqode.lgg.info('Render video outstream BID for: ' + bid.adUnitCode);
+                    uniqode.lgg.info(bid, 'info', 'BID data');
+                    uniqode.lgg.info("Invoke Outstream player with vastUrl params:");
+                    uniqode.lgg.info('vastUrL: ' + bid.vastUrl);
+                    uniqode.lgg.info('container: ' + bid.adUnitCode);
+                    invokePlayerOutstream(bid.vastUrl , bid.adUnitCode);
+                });
+            }
+        }
+    }
+]);
+
+// /1033329/RomaniaTV.net/RomaniaTV_net-intext_3
+uniqode.slots.setHB('div-gpt-ad-1579699065131-0', [
+    {
+        code: 'div-gpt-ad-1579699065131-0', 
+        mediaTypes: {banner: {sizes: [[300, 250], [336, 280]]}},
+        bids: uniqode._isMob ? [
+            {bidder: "adf",params:{mid:1875698}},
+            {bidder: "teads", params: {placementId: 220365, pageId: 204121}},
+            {bidder: "projectagora", params: {placementId: 32338873}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: 'MgjYt5sOS5', supplyType: 'site'}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300_3", m: 1}},
+            {bidder: "ogury", params: {assetKey: "OGY-F0B5AE24F959", adUnitId: "wm-hb-iart-romani-thema-t3kdyru6hfjw"}},
+            {bidder: "rubicon", params: {zoneId: 3476010, siteId: 554796, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207804, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_m300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'DHK5Qfa2CW', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8151'}},
+        ] : [
+            {bidder: "adf",params:{mid:1875697}}, 
+            {bidder: "teads", params: {placementId: 220365, pageId: 204121}},
+            {bidder: "projectagora", params: {placementId: 32330817}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: 'lVipavRDxv', supplyType: 'site'}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300_3", m: 0}},
+            {bidder: "ogury", params: {assetKey: "OGY-F0B5AE24F959", adUnitId: "wm-hb-iart-romani-thema-t3kdyru6hfjw"}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207810, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'YeonwFZOtC', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8149'}},
+        ]
+    },
+    { 
+        code: 'div-gpt-ad-1579699065131-0',
+        mediaTypes: {video: {
+            context: "outstream", 
+            useCacheKey: true, 
+            playerSize: uniqode._isMob ? [[320,180]] : [[640,360]],
+            placement: 2,
+            api: [1,2],
+            protocols: [1,2,3,7],
+            skip: 1,
+            skippable:true,
+            mimes:["video/mp4","video/mpeg","video/webm","video/m4v","video/x-ms-wmv","video/x-flv"],
+            playbackmethod: [2],
+            playback_method:"auto_play_sound_off",
+            frameworks: [1,2],
+            maxduration: 180,
+            linearity: 1,
+        }},
+        bids: uniqode._isMob ? [
+            {bidder: "adf",params:{mid:1875687}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979124,formatId:131023}},
+            {bidder: "richaudience", params:{ pid: 'PQvotp26tk', supplyType: 'site'}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554, size_id: 203}},
+            {bidder: "pubmatic", params: {publisherId: "156577", adSlot: "6063693"}},
+            {bidder: "gm_richaudience", params:{ pid: '7T0WaR5nfj', supplyType: 'site'}},
+            {bidder: "gm_smartadserver", params:{siteId:669370,pageId:1999897,formatId:70770}},
+        ] : [
+            {bidder: "adf",params:{mid:1875686}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979124,formatId:131024}},
+            {bidder: "richaudience", params:{ pid: 'DdkmHajrzR', supplyType: 'site'}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554, size_id: 203}},
+            {bidder: "pubmatic", params: {publisherId: "156577", adSlot: "6063693"}},
+            {bidder: "gm_richaudience", params:{ pid: '7T0WaR5nfj', supplyType: 'site'}},
+            {bidder: "gm_smartadserver", params:{siteId:669370,pageId:1999897,formatId:70770}},
+        ],
+        renderer: {
+            url: 'https://app.dejacast.com/player/m5pR7yuG/outstream.js',
+            render: function (bid) {
+                bid.renderer.push(() => {
+                    uniqode.lgg.info('Render video outstream BID for: ' + bid.adUnitCode);
+                    uniqode.lgg.info(bid, 'info', 'BID data');
+                    uniqode.lgg.info("Invoke Outstream player with vastUrl params:");
+                    uniqode.lgg.info('vastUrL: ' + bid.vastUrl);
+                    uniqode.lgg.info('container: ' + bid.adUnitCode);
+                    invokePlayerOutstream(bid.vastUrl , bid.adUnitCode);
+                });
+            }
+        }
+    }
+]);
+
+// /1033329/RomaniaTV.net/RomaniaTV_net-intext_4
+uniqode.slots.setHB('div-gpt-ad-1579699111013-0', [
+    {
+        code: 'div-gpt-ad-1579699111013-0', 
+        mediaTypes: {banner: {sizes: [[300, 250], [336, 280]]}},
+        bids: uniqode._isMob ? [
+            {bidder: "adf",params:{mid:1875700}},
+            {bidder: "teads", params: {placementId: 220365, pageId: 204121}},
+            {bidder: "projectagora", params: {placementId: 32338875}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: 'Ctzbu0yFYp', supplyType: 'site'}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300_4", m: 1}},
+            {bidder: "ogury", params: {assetKey: "OGY-F0B5AE24F959", adUnitId: "wm-hb-iart-romani-thema-t3kdyru6hfjw"}},
+            {bidder: "rubicon", params: {zoneId: 3476010, siteId: 554796, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207794, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_m300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: '8ITeq5wcJe', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8151'}},
+        ] : [
+            {bidder: "adf",params:{mid:1875699}}, 
+            {bidder: "teads", params: {placementId: 220365, pageId: 204121}},
+            {bidder: "projectagora", params: {placementId: 32330818}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: 'ImeL4PHZcO', supplyType: 'site'}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300_4", m: 0}},
+            {bidder: "ogury", params: {assetKey: "OGY-F0B5AE24F959", adUnitId: "wm-hb-iart-romani-thema-t3kdyru6hfjw"}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207809, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'akxUeJGt2k', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8149'}},
+        ]
+    },
+    { 
+        code: 'div-gpt-ad-1579699111013-0',
+        mediaTypes: {video: {
+            context: "outstream", 
+            useCacheKey: true, 
+            playerSize: uniqode._isMob ? [[320,180]] : [[640,360]],
+            placement: 2,
+            api: [1,2],
+            protocols: [1,2,3,7],
+            skip: 1,
+            skippable:true,
+            mimes:["video/mp4","video/mpeg","video/webm","video/m4v","video/x-ms-wmv","video/x-flv"],
+            playbackmethod: [2],
+            playback_method:"auto_play_sound_off",
+            frameworks: [1,2],
+            maxduration: 180,
+            linearity: 1,
+        }},
+        bids: uniqode._isMob ? [
+            {bidder: "adf",params:{mid:1875689}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979124,formatId:131023}},
+            {bidder: "richaudience", params:{ pid: 'uSooPRttQV', supplyType: 'site'}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554, size_id: 203}},
+            {bidder: "pubmatic", params: {publisherId: "156577", adSlot: "6063693"}},
+            {bidder: "gm_richaudience", params:{ pid: '7T0WaR5nfj', supplyType: 'site'}},
+            {bidder: "gm_smartadserver", params:{siteId:669370,pageId:1999897,formatId:70770}},
+        ] : [
+            {bidder: "adf",params:{mid:1875688}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979124,formatId:131024}},
+            {bidder: "richaudience", params:{ pid: 'B2nnz6tuoM', supplyType: 'site'}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554, size_id: 203}},
+            {bidder: "pubmatic", params: {publisherId: "156577", adSlot: "6063693"}},
+            {bidder: "gm_richaudience", params:{ pid: '7T0WaR5nfj', supplyType: 'site'}},
+            {bidder: "gm_smartadserver", params:{siteId:669370,pageId:1999897,formatId:70770}},
+        ],
+        renderer: {
+            url: 'https://app.dejacast.com/player/m5pR7yuG/outstream.js',
+            render: function (bid) {
+                bid.renderer.push(() => {
+                    uniqode.lgg.info('Render video outstream BID for: ' + bid.adUnitCode);
+                    uniqode.lgg.info(bid, 'info', 'BID data');
+                    uniqode.lgg.info("Invoke Outstream player with vastUrl params:");
+                    uniqode.lgg.info('vastUrL: ' + bid.vastUrl);
+                    uniqode.lgg.info('container: ' + bid.adUnitCode);
+                    invokePlayerOutstream(bid.vastUrl , bid.adUnitCode);
+                });
+            }
+        }
+    }
+]);
+
+// /1033329/RomaniaTV.net/RomaniaTV_net-intext_5
+uniqode.slots.setHB('div-gpt-ad-1579699134066-0', [
+    {
+        code: 'div-gpt-ad-1579699134066-0', 
+        mediaTypes: {banner: {sizes: [[300, 250], [336, 280]]}},
+        bids: uniqode._isMob ? [
+            {bidder: "adf",params:{mid:1875702}},
+            {bidder: "teads", params: {placementId: 220365, pageId: 204121}},
+            {bidder: "projectagora", params: {placementId: 32338876}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: 'FAR9AxMkwz', supplyType: 'site'}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300_5", m: 1}},
+            {bidder: "ogury", params: {assetKey: "OGY-F0B5AE24F959", adUnitId: "wm-hb-iart-romani-thema-t3kdyru6hfjw"}},
+            {bidder: "rubicon", params: {zoneId: 3476010, siteId: 554796, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207794, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_m300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: '8ITeq5wcJe', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8151'}},
+        ] : [
+            {bidder: "adf",params:{mid:1875701}}, 
+            {bidder: "teads", params: {placementId: 220365, pageId: 204121}},
+            {bidder: "projectagora", params: {placementId: 32330820}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: 'q6yZ5xt4Nl', supplyType: 'site'}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300_5", m: 0}},
+            {bidder: "ogury", params: {assetKey: "OGY-F0B5AE24F959", adUnitId: "wm-hb-iart-romani-thema-t3kdyru6hfjw"}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207809, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'akxUeJGt2k', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8149'}},
+        ]
+    },
+]);
+
+// /1033329/RomaniaTV.net/RomaniaTV_net-branding_top
+uniqode.slots.setHB('div-gpt-ad-1579696652481-0', [
+    {
+        code: 'div-gpt-ad-1579696652481-0', 
+        mediaTypes: {banner: {sizes: uniqode._isMob ? [[300, 250]] : [[728, 90], [970, 250]]}},
+        bids: uniqode._isMob ? [
+            {bidder: "adf",params:{mid:1875705}},
+            {bidder: "teads", params: {placementId: 220366, pageId: 204122}},
+            {bidder: "projectagora", params: {placementId: 32338877}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131018}},
+            {bidder: "richaudience", params:{ pid: 'qLyeXDTQtt', supplyType: 'site'}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300_6", m: 1}},
+            {bidder: "rubicon", params: {zoneId: 3476010, siteId: 554796, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207794, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_m300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: '8ITeq5wcJe', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8151'}},
+        ] : [
+            {bidder: "adf",params:{mid:1875703}}, 
+            {bidder: "teads", params: {placementId: 220366, pageId: 204122}},
+            {bidder: "projectagora", params: {placementId: 32330828}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131021}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131022}},
+            {bidder: "richaudience", params:{ pid: 'uCZHi1XKSM', supplyType: 'site'}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207809, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_970x250_HV@970x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'BJ0XlrgNNp', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213485', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8152'}},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8153'}},
+        ]
+    },
+]);
+
+// /1033329/RomaniaTV.net/RomaniaTV_net-sidebar_1 - desktop only
+! uniqode._isMob &&
+uniqode.slots.setHB('div-gpt-ad-1570188672799-0', [
+    {
+        code: 'div-gpt-ad-1570188672799-0', 
+        mediaTypes: {banner: {sizes: [[300, 250], [336, 280]]}},
+        bids: [
+            {bidder: "adf",params:{mid:1875707}},
+            {bidder: "teads", params: {placementId: 220366, pageId: 204122}},
+            {bidder: "projectagora", params: {placementId: 32330821}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: 'gkp1EJf4JW', supplyType: 'site'}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300_6", m: 0}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207810, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'YeonwFZOtC', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8149'}},
+        ]
+    },
+]);
+
+// /1033329/RomaniaTV.net/RomaniaTV_net-sidebar_2 - desktop only
+! uniqode._isMob &&
+uniqode.slots.setHB('div-gpt-ad-1570188963025-0', [
+    {
+        code: 'div-gpt-ad-1570188963025-0', 
+        mediaTypes: {banner: {sizes: [[300, 250], [336, 280]]}},
+        bids: [
+            {bidder: "adf",params:{mid:1875708}},
+            {bidder: "teads", params: {placementId: 220366, pageId: 204122}},
+            {bidder: "projectagora", params: {placementId: 32330822}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: '3acnlWlhFf', supplyType: 'site'}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300_7", m: 0}},
+            {bidder: "appnexus", params:{placement_id: 33207809, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'akxUeJGt2k', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8149'}},
+        ]
+    },
+]);
+
+// /1033329/RomaniaTV.net/RomaniaTV_net-billboard_1
+uniqode.slots.setHB('div-gpt-ad-1579697132983-0', [
+    {
+        code: 'div-gpt-ad-1579697132983-0', 
+        mediaTypes: {banner: {sizes: uniqode._isMob ? [[300, 250], [336, 280]] : [[728, 90], [970, 250]]}},
+        bids: uniqode._isMob ? [
+            {bidder: "adf",params:{mid:1875706}},
+            {bidder: "teads", params: {placementId: 220366, pageId: 204122}},
+            {bidder: "projectagora", params: {placementId: 32338878}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: 'UVkDteg9KR', supplyType: 'site'}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300_7", m: 1}},
+            {bidder: "rubicon", params: {zoneId: 3476010, siteId: 554796, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207804, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_m300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'DHK5Qfa2CW', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8151'}},
+        ] : [
+            {bidder: "adf",params:{mid:1875704}}, 
+            {bidder: "teads", params: {placementId: 220366, pageId: 204122}},
+            {bidder: "projectagora", params: {placementId: 32330823}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131021}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131022}},
+            {bidder: "richaudience", params:{ pid: 'bCG79qNnlo', supplyType: 'site'}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207810, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_970x250_HV@970x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'OFXeg5je9c', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213485', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8152'}},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8153'}},
+        ]
+    },
+]);
+
+// /1033329/RomaniaTV.net/RomaniaTV_net-billboard_2
+uniqode.slots.setHB('div-gpt-ad-1579697480833-0', [
+    {
+        code: 'div-gpt-ad-1579697480833-0', 
+        mediaTypes: {banner: {sizes: uniqode._isMob ? [[300, 250], [336, 280]] : [[728, 90], [970, 250]]}},
+        bids: uniqode._isMob ? [
+            {bidder: "adf",params:{mid:1875710}},
+            {bidder: "teads", params: {placementId: 220366, pageId: 204122}},
+            {bidder: "projectagora", params: {placementId: 32338880}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: 'zRSpkkwTrZ', supplyType: 'site'}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300_8", m: 1}},
+            {bidder: "rubicon", params: {zoneId: 3476010, siteId: 554796, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207804, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_m300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'DHK5Qfa2CW', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8151'}},
+        ] : [
+            {bidder: "adf",params:{mid:1875709}}, 
+            {bidder: "teads", params: {placementId: 220366, pageId: 204122}},
+            {bidder: "projectagora", params: {placementId: 32330824}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131021}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131022}},
+            {bidder: "richaudience", params:{ pid: 'fFsAUSHpEe', supplyType: 'site'}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207810, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_970x250_HV@970x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'OFXeg5je9c', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213485', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8152'}},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8153'}},
+        ]
+    },
+]);
+
+// /1033329/RomaniaTV.net/RomaniaTV_net-billboard_3
+uniqode.slots.setHB('div-gpt-ad-1579697502380-0', [
+    {
+        code: 'div-gpt-ad-1579697502380-0', 
+        mediaTypes: {banner: {sizes: uniqode._isMob ? [[300, 250], [336, 280]] : [[728, 90], [970, 250]]}},
+        bids: uniqode._isMob ? [
+            {bidder: "adf",params:{mid:1875713}},
+            {bidder: "teads", params: {placementId: 220366, pageId: 204122}},
+            {bidder: "projectagora", params: {placementId: 32338881}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: 'q98J9miZde', supplyType: 'site'}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300_9", m: 1}},
+            {bidder: "rubicon", params: {zoneId: 3476010, siteId: 554796, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207794, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_m300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: '8ITeq5wcJe', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8151'}},
+        ] : [
+            {bidder: "adf",params:{mid:1875712}}, 
+            {bidder: "teads", params: {placementId: 220366, pageId: 204122}},
+            {bidder: "projectagora", params: {placementId: 32330825}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131021}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131022}},
+            {bidder: "richaudience", params:{ pid: 'CEqEBEgApO', supplyType: 'site'}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207809, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_970x250_HV@970x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'BJ0XlrgNNp', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213485', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8152'}},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8153'}},
+        ]
+    },
+]);
+
+// /1033329/RomaniaTV.net/RomaniaTV_net-billboard_4
+uniqode.slots.setHB('div-gpt-ad-1579697526766-0', [
+    {
+        code: 'div-gpt-ad-1579697526766-0', 
+        mediaTypes: {banner: {sizes: uniqode._isMob ? [[300, 250], [336, 280]] : [[728, 90], [970, 250]]}},
+        bids: uniqode._isMob ? [
+            {bidder: "adf",params:{mid:1875715}},
+            {bidder: "teads", params: {placementId: 220366, pageId: 204122}},
+            {bidder: "projectagora", params: {placementId: 32338882}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: 'r5V5iTi0Qw', supplyType: 'site'}},
+            {bidder: "r2b2", params: {d: "thd.romaniatv.net", g: "hb", p: "300x300_10", m: 1}},
+            {bidder: "rubicon", params: {zoneId: 3476010, siteId: 554796, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207794, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_m300x250_HV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: '8ITeq5wcJe', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8151'}},
+        ] : [
+            {bidder: "adf",params:{mid:1875714}}, 
+            {bidder: "teads", params: {placementId: 220366, pageId: 204122}},
+            {bidder: "projectagora", params: {placementId: 32330826}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131021}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131022}},
+            {bidder: "richaudience", params:{ pid: 'MZdr1q1DRl', supplyType: 'site'}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207809, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_970x250_HV@970x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'BJ0XlrgNNp', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213485', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8152'}},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8153'}},
+        ]
+    },
+]);
+
+// /1033329/RomaniaTV.net/RomaniaTV_net-billboard_5
+uniqode.slots.setHB('div-gpt-ad-1579697547330-0', [
+    {
+        code: 'div-gpt-ad-1579697547330-0', 
+        mediaTypes: {banner: {sizes: uniqode._isMob ? [[300, 250], [336, 280]] : [[728, 90], [970, 250]]}},
+        bids: uniqode._isMob ? [
+            {bidder: "adf",params:{mid:1875717}},
+            {bidder: "teads", params: {placementId: 220366, pageId: 204122}},
+            {bidder: "projectagora", params: {placementId: 32338884}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131018}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979121,formatId:131019}},
+            {bidder: "richaudience", params:{ pid: 'HlrL26C1YR', supplyType: 'site'}},
+            {bidder: "rubicon", params: {zoneId: 3476010, siteId: 554796, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207792, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_m300x250_LV@300x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: 'HUUerIUioI', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213483', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8151'}},
+        ] : [
+            {bidder: "adf",params:{mid:1875716}}, 
+            {bidder: "teads", params: {placementId: 220366, pageId: 204122}},
+            {bidder: "projectagora", params: {placementId: 32330827}},
+            {bidder: "rtbhouse", params:{region:"prebid-eu",publisherId:"zl3khrFIndqqZ16RhPID"}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131021}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979120,formatId:131022}},
+            {bidder: "richaudience", params:{ pid: 'L8YOMR1nD0', supplyType: 'site'}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554}},
+            {bidder: "appnexus", params:{placement_id: 33207808, allowSmallerSizes: true, usePaymentRule: true}},
+            {bidder: "pubmatic", params: {adSlot: "RO_THD_romaniatv.net_970x250_LV@970x250", publisherId: "156577"}},
+            {bidder: "gm_richaudience", params:{ pid: '6uA6eSWUTo', supplyType: 'site'}},
+            {bidder: "criteo", params: {networkId: 9012}},
+            {bidder: 'seedtag', params: { adUnitId: '33213485', publisherId: '0441-5596-01', placement: 'inBanner' }},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8152'}},
+            {bidder: 'setupad', params: {account_id: 'gemiusro', placement_id: '8153'}},
+        ]
+    },
+]);
+
+uniqode.slots.setHB('hbVideoAdUnit', [
+    { 
+        code: 'video1',
+        mediaTypes: {
+            video: {
+                context: "instream", 
+                useCacheKey: true, 
+                playerSize: uniqode._isMob ? [[320,180]] : [[640,360]],
+                placement: 2,
+                plcmt: 2,
+                api: [1,2,3,4,5,6],
+                protocols: [1,2,3,4,5,6,7,8],
+                skip: 1,
+                skippable:true,
+                mimes:["video/mp4","video/mpeg","video/webm","video/m4v","video/x-ms-wmv","video/x-flv"],
+                playbackmethod: [2],
+                playback_method:"auto_play_sound_off",
+                frameworks: [1,2],
+                maxduration: 180,
+                linearity: 1,
+            }
+        },
+        bids: uniqode._isMob ? [
+            {bidder: "adf",params:{mid:1875681}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979123,formatId:130749}},
+            {bidder: "richaudience", params:{ pid: 'VKE2OXVVOK', supplyType: 'site'}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554, size_id: 201}},
+            {bidder: "pubmatic", params: {publisherId: "156577", adSlot: "6063685"}},
+            {bidder: "gm_richaudience", params:{ pid: 'YpigR2f9Vh', supplyType: 'site'}},
+            {bidder: "gm_smartadserver", params:{siteId:669370,pageId:1999896,formatId:65431}},
+        ] : [
+            {bidder: "adf",params:{mid:1875680}},
+            {bidder: "smartadserver", params:{siteId:657549,pageId:1979123,formatId:130749}},
+            {bidder: "richaudience", params:{ pid: 'VKE2OXVVOK', supplyType: 'site'}},
+            {bidder: "rubicon", params: {zoneId: 3476008, siteId: 554794, accountId: 23554, size_id: 201}},
+            {bidder: "pubmatic", params: {publisherId: "156577", adSlot: "6063685"}},
+            {bidder: "gm_richaudience", params:{ pid: 'YpigR2f9Vh', supplyType: 'site'}},
+            {bidder: "gm_smartadserver", params:{siteId:669370,pageId:1999896,formatId:65431}},
+        ]
+    }
+]);
+
+uniqode.cmd.push(['addScripts', [
+    {
+        name: "Ffy",
+        fn: () => {
+            let slotIDs = uniqode.slots.findByType('display').map((slot) => slot.id);
+
+            const setKVsBeforeRefresh = (target) => {
+                googletag.cmd.push(() => {
+                    uniqode.adsrv.setSlotTargeting(target.id, [[target.ffy.options.tkp, '1']]);
+                    uniqode.adsrv.setSlotTargeting(target.id, [[target.ffy.options.tkp + '_hit', '' + target.adAgent.state().no]]);
+                    uniqode.adsrv.setSlotTargeting(target.id, [[target.ffy.options.tkp + '_view', '' + target.adAgent.state().view]]);
+                });
+            }
+            
+            const canRefreshResponse = (target) => {
+                let slot = uniqode.slots.findById(target.id);
+                if (! slot || ! slot.adsObject) return 1;
+            
+                let ndh = (new Date()).getHours();
+                if (ndh >= 20 || ndh <= 6) 
+                    return 1;
+
+                let response = slot.adsObject.getResponseInformation();
+                let orderId = response ? response.campaignId : null;
+            
+                return (orderId && target.ffy.options.aor.length > 0 && ! target.ffy.options.aor.includes(orderId)) ? 0 : 1;
+            }
+
+            const auctionCb = (target) => {
+                uniqode.lgg.info('PREBID New Auction: request for target: ' + target.id);
+            
+                // Prebid request
+                uqhb.que.push(() => {
+                    uqhb.requestBids({
+                        timeout         : 2000,
+                        adUnitCodes     : [target.id],
+                        bidsBackHandler : (bids) => {
+            
+                            uniqode.lgg.info('PREBID New Auction: BIDS BackHandler: ');
+                            uniqode.lgg.info(bids, 'Bids');
+            
+                            let slot = uniqode.slots.findById(target.id);
+                            if (! slot || ! slot.adsObject) return;
+            
+                            googletag.cmd.push(() => {
+                                uqhb.setTargetingForGPTAsync([target.id]);
+                                uniqode.stack.cmd.refreshSlots([slot.adsObject]);
+                            });
+                        }
+                    });
+                });
+            }
+
+            uniqode.ffy.init({
+                acb: auctionCb,
+                kvs: setKVsBeforeRefresh,
+                rsp: canRefreshResponse,
+            }, slotIDs);
+
+            return 1;
+        }
+    },
+    {
+        name: 'UniqOrigin ID',
+        fn: () => {
+            window.uniqOrigin = window.uniqOrigin || {options: {}};
+            uniqOrigin.cmd = uniqOrigin.cmd || [];
+            uniqOrigin.cmd.push(['requireConsent']);
+            uniqOrigin.cmd.push(['setDomainId', 'c5f27c6d-c7c0-4aa9-bedb-0b658810d1bd']);
+            uniqOrigin.cmd.push(['whenOriginReady', (origin) => {
+                uniqode.stack.page.oid = origin.subject().getSubjectID();
+                googletag.cmd.push(()=>{
+                    googletag.pubads().setPublisherProvidedId(uniqode.stack.page.oid);
+                });
+            }]);
+    
+            return 1;
+        },
+        url: "https://cdn.uniqvate.app/origin/latest.min.js",
+        attr: {
+            async: 1,
+            cfasync: 1,
+        },
+    },
+    {
+        name: 'OneTrust SDK',
+        url: "https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js",
+        attr: {
+            charset: "UTF-8",
+            async: true,
+            "data-domain-script": "b86bb0de-9fda-46b8-8236-38018959c8c0",
+        },
+    },
+    {
+        name: "Optanon Wrapper",
+        fn: () => {
+            window.OptanonWrapper = () => {}
+            return 1;
+        },
+        requires: ["OneTrust SDK"],
+    },
+    {
+        name: "Sati",
+        url: "//code3.adtlgc.com/js/sati_init.js",
+        attr: {
+            async: true,
+        },
+        consent: [],
+    },
+    {
+        name: "cXense",
+        url: "//cdn.cxense.com/cx.js",
+        attr: {
+            async: true,
+        },
+        consent: [],
+    },
+    {
+        name: "CX Queue",
+        fn: () => {
+            cX = cX || { options: { consent: true } };
+            cX.callQueue = cX.callQueue || [];
+            cX.callQueue.push(['requireConsent']);
+            cX.callQueue.push(['invoke', function() { setSATIConsent(); }]);
+            cX.callQueue.push(['setSiteId', '1136227972865927424']);
+            cX.callQueue.push(['sync', 'ddp']);
+            cX.callQueue.push(['sync', 'adform']);
+            cX.callQueue.push(['sync', 'smart']);
+            cX.callQueue.push(['getUserSegmentIds', {persistedQueryId: "7891385d649355fae749e78cb8325cbc673e47a8", callback: function(segments) {
+                uniqode.lgg.log(segments, 'info', '<< SATI >> Get user segment ids: ');
+                uniqode.target.add('CxSegments', segments);
+                if(typeof window.localStorage === 'object' && typeof window.localStorage.getItem === 'function') {
+                    localStorage.setItem("CxSegments", segments.join(","));
+                }
+            }}]);
+            cX.callQueue.push(['sendPageViewEvent']);
+
+            window.getUserSegmentIdsLocal = () => {
+                var segments = [];
+                if(typeof window.localStorage === 'object' && typeof window.localStorage.getItem === 'function' && localStorage.getItem("CxSegments") !== null && localStorage.getItem("CxSegments").length>0) {
+                    segments = localStorage.getItem("CxSegments").split(',');
+                }
+                return segments;
+            }
+            
+            uniqode.target.add('CxSegments', uniqode.target.find('CxSegments') ?? getUserSegmentIdsLocal());
+
+            window.setSATIConsent = () => {
+                var SATI_PUBVENDOR_ID = 412;
+                var pv_consent = false, segment_consent = false;
+                if (uniqode.cstm.consent.publisher) {
+                    if (uniqode.cstm.check.vendor('consents',[SATI_PUBVENDOR_ID])) {
+                        pv_consent = !!(uniqode.cstm.check.publisher('consents',[1,9,10]));
+                        segment_consent = !!(uniqode.cstm.check.publisher('consents',[2,3,4,7,9]));
+                        if (!segment_consent) {
+                            uniqode.lgg.info('SATI segments: optout');
+                            window.adtlgcen = window.adtlgcen || {}; window.adtlgcen.taskQueue = window.adtlgcen.taskQueue || []; window.adtlgcen.taskQueue.push("optOut");
+                        }
+                    } else {
+                        uniqode.lgg.info('SATI: not triggered Vendor = ' + uniqode.cstm.check.vendor('consents',[SATI_PUBVENDOR_ID]) + ': {pv: ' + pv_consent + ', segment: ' + segment_consent + '}');
+                    }
+                    cX.callQueue.push(['setConsent', {pv: pv_consent, segment: segment_consent}, {runCallQueue: true}]);
+                    uniqode.lgg.info('SATI: setConsent: {pv: ' + pv_consent + ', segment: ' + segment_consent + '}');
+                }
+            }
+
+            return 1;
+        },
+        consent: [],
+    },
+    {
+        name: 'Google GPT',
+        url: uniqode.adsrv.getAdServerLink,
+        attr: {
+            async: 1,
+            cfasync: 1,
+        },
+        consent: [['vendor', 'consents',[755]]],
+        notInSection: ['noadspage'],
+    },
+    {
+        name: "Teads Tag",
+        url: "//a.teads.tv/page/204123/tag",
+        attr: {
+            async: 1,
+            class: 'teads',
+        },
+        consent: [['vendor', 'consents',[132]]],
+        inSection: ['post'],
+        notInSection: ['noadspage'],
+    },
+    {
+        name: "Outstream Passback",
+        fn: () => {
+            
+           uniqode.videoOutstreamPassback = (e) => {
+                var slotId = e.detail.container;
+                uniqode.lgg.info('OmniView disposed event received for slot with id: ' + slotId);
+                let adUnit = uniqode.slots.findById(slotId);
+                if (adUnit.adsObject) {
+                    uniqode.lgg.info('Refreshing slot with id: ' + slotId);
+                    googletag.pubads().refresh([adUnit.adsObject.clearTargeting()]);
+                }
+            }
+
+            document.body.addEventListener('omniview_disposed', (e) => { uniqode.videoOutstreamPassback(e); }, false);
+
+            return 1;
+        }
+    },
+    {
+        name: "Instream Passback",
+        fn: () => {
+                
+            uniqode.videoInstreamPassback = (e) => {
+                uniqode.lgg.log(e, 'info', 'DejaCast instream omnifocus_disposed event');
+                let ts = uniqode.target.find('ts')[0];
+                if (uniqode.wpmed.is('mobile')) {
+                    if (['0'].includes(ts)) 
+                        uniqode.ldJs("https://go.trvdp.com/init/14251.js?pid=11099", {}, () => {
+                            uniqode.lgg.info('DejaCast INSTREAM: Injected TRUVID mobile passback');
+                        }, ()=>{}, 'body');
+                    else
+                        uniqode.ldJs("https://delivery.r2b2.io/get/thd.romaniatv.net/generic/sticky/mobile", {}, () => {
+                            uniqode.lgg.info('DejaCast INSTREAM: Injected R2B2 passback');
+                        }, ()=>{}, 'body');
+                }
+            }
+
+            document.body.addEventListener('omnifocus_disposed', (e) => { uniqode.videoInstreamPassback(e); }, false);
+
+            return 1;
+        },
+        notInSection: ['noadspage'],
+    },
+    {
+        name: "Instream Video DJC Events",
+        fn: () => {
+            document.addEventListener("djplayer_event", function(event) {
+                uniqode.lgg.log(event, 'info', 'DejaCast video event')
+                uniqode.lgg.info('DJC disposed event [ ' + event.detail.event + ' ] from player id [ ' + event.detail.player_id + ' ] on video id [ ' + event.detail.video_id + ' ]');
+            });
+
+            return 1;
+        },
+        consent: [],
+    },
+    {
+        name: "R2B2 HB Tag",
+        url: () => {
+            return uniqode._isMob ? "//delivery.r2b2.io/hb/thematicDigitalSrl/romaniatv.hb.mobile" : "//delivery.r2b2.io/hb/thematicDigitalSrl/romaniatv.hb.desktop";
+        },
+        attr: {
+            async: 1,
+        },
+        consent: [['vendor', 'consents',[1235]]],
+        notInSection: ['noadspage'],
+    },
+    {
+        name: 'HB Config',
+        consent: [],
+        fn: () => {
+            window.uqhb = window.uqhb || {};
+            uqhb.que = uqhb.que || [];
+
+            var PREBID_TIMEOUT = 2000;
+
+            var adUnits = [];
+            uniqode.slots.adUnits.f.forEach((v, k) => {
+                if (v.type == 'display' && v.hb.length)
+                    adUnits.push(...v.hb);
+            });
+
+            var hbVideoAdUnit = uniqode.slots.findById('hbVideoAdUnit') || [];
+
+            uniqode.lgg.log(adUnits, 'info', 'HB display adunits ');
+            uniqode.lgg.log(hbVideoAdUnit && hbVideoAdUnit.hb[0], 'info', 'HB video adunit');
+    
+            uqhb.bidderSettings = {
+                teads: {
+                    storageAllowed: true,
+                },
+                adf: {
+                    storageAllowed: true,
+                    bidCpmAdjustment: function(bidCpm, bid){
+                        return bidCpm * .9;
+                    }
+                },
+                appnexus: {
+                    storageAllowed: true,
+                    // gm
+                    bidCpmAdjustment: function(bidCpm, bid){
+                        return bidCpm * .9;
+                    }
+                },
+                projectagora: {
+                    storageAllowed: true,
+                    bidCpmAdjustment: function(bidCpm, bid){
+                        return bidCpm * .75;
+                    }
+                },
+                r2b2: {
+                    storageAllowed: true,
+                    bidCpmAdjustment: function(bidCpm, bid){
+                        return bidCpm * .7;
+                    }
+                },
+                // gm
+                rubicon: {
+                    bidCpmAdjustment: function(bidCpm, bid){
+                        return bidCpm * .9;
+                    }
+                },
+                pubmatic: {
+                    bidCpmAdjustment: function(bidCpm, bid){
+                        return bidCpm * .9;
+                    }
+                },
+                gm_richaudience: {
+                    bidCpmAdjustment: function(bidCpm, bid){
+                        return bidCpm * .9;
+                    }
+                },
+                seedtag: {
+                    bidCpmAdjustment: function(bidCpm, bid){
+                        return bidCpm * .9;
+                    }
+                },
+                setupad: {
+                    bidCpmAdjustment: function(bidCpm, bid){
+                        return bidCpm * .9;
+                    }
+                },
+                criteo: {
+                    storageAllowed: true,
+                    bidCpmAdjustment: function(bidCpm, bid){
+                        return bidCpm * .85;
+                    }
+                },
+                gm_smartadserver: {
+                    bidCpmAdjustment: function(bidCpm, bid){
+                        return bidCpm * .9;
+                    }
+                },
+            }
+
+            uqhb.que.push(function() {
+                uqhb.aliasBidder("appnexus", "projectagora", {gvlid: 1032});
+                uqhb.aliasBidder("smartadserver", "gm_smartadserver", {gvlid: 45});
+                uqhb.aliasBidder("richaudience", "gm_richaudience", {gvlid: 108});
+                uqhb.setBidderConfig(
+                    {
+                        bidders: ['projectagora'],
+                        config: {
+                            schain: {
+                                validation: "strict",
+                                config: {
+                                    ver: "1.0",
+                                    complete: 1,
+                                    nodes: [
+                                        {
+                                            asi: "thematicdigital.ro",
+                                            sid: "THD20240301005",
+                                            hp: 1
+                                        },
+                                        {
+                                            asi: "projectagora.com",
+                                            sid: "110319",
+                                            hp: 1
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    { 
+                        bidders: ["rubicon"], 
+                        config: { 
+                            schain: { 
+                                validation: "strict", 
+                                config: { 
+                                    ver: "1.0", 
+                                    complete: 1, 
+                                    nodes: [
+                                        {
+                                            asi: "thematicdigital.ro", 
+                                            sid: "THD20240301005", 
+                                            hp: 1 
+                                        },  
+                                        {
+                                            asi: "gemius.com", 
+                                            sid: "1085545", 
+                                            hp: 1 
+                                        }, 
+                                        { 
+                                            asi: "rubiconproject.com", 
+                                            sid: "23554", 
+                                            hp: 1 
+                                        } 
+                                    ] 
+                                } 
+                            } 
+                        } 
+                    },
+                    { 
+                        bidders: ["gm_smartadserver", "gm_richaudience", "pubmatic", "setupad", "seedtag", "criteo", "appnexus"], 
+                        config: { 
+                            schain: { 
+                                validation: "strict", 
+                                config: { 
+                                    ver: "1.0", 
+                                    complete: 1, 
+                                    nodes: [
+                                        {
+                                            asi: "thematicdigital.ro", 
+                                            sid: "THD20240301005", 
+                                            hp: 1 
+                                        },  
+                                        {
+                                            asi: "gemius.com", 
+                                            sid: "1085545", 
+                                            hp: 1 
+                                        }, 
+                                    ] 
+                                } 
+                            } 
+                        } 
+                    },
+                );
+            });
+            
+            uqhb.que.push(function() {
+                uqhb.addAdUnits(adUnits);
+                uqhb.addAdUnits(hbVideoAdUnit.hb[0]);
+                uqhb.setConfig({
+                    paapi: {
+                        enabled: true,
+                        bidders: ['rtbhouse'],
+                        defaultForSlots: 1,
+                        gpt: {
+                            autoconfig: true
+                        }
+                    },
+                    schain: {
+                        validation: "strict",
+                        config: {
+                            ver: "1.0",
+                            complete: 1,
+                            nodes: [
+                                {
+                                    asi: "thematicdigital.ro",
+                                    sid: "THD20240301005",
+                                    hp: 1
+                                }
+                            ]
+                        }
+                    },
+                    enableTIDs: true,
+                    useBidCache: true,
+                    cache: {url: 'https://prebid.adnxs.com/pbc/v1/cache'},
+                    priceGranularity: "dense",
+                    consentManagement:{
+                        gdpr:{
+                            cmpApi: 'iab',
+                            defaultGdprScope: true,
+                            timeout: 5000,
+                            rules: [
+                                {
+                                    vendorExceptions: ["r2b2"],
+                                },
+                            ],
+                        }
+                    },
+                    userSync: {
+                        userIds: [
+                            {
+                                name: 'sharedId', 
+                                storage: {
+                                    name: '_sharedID', 
+                                    type: 'cookie',
+                                    expires: 90
+                                }
+                            },
+                            {
+                                name: 'teadsId',
+                                params: {
+                                    pubId: 28954
+                                }
+                            },
+                            {
+                                name: "criteo"
+                            }
+            
+                        ],
+                        auctionDelay: 50,
+                        filterSettings: {
+                            iframe: {
+                                bidders: '*',     
+                                filter: 'include'
+                            },
+                            image: {
+                                bidders: '*',
+                                filter: 'include'
+                            }
+                        },
+                        iframeEnabled: true,
+                        syncEnabled: true,
+                        syncDelay: 1
+                    },
+                    "currency": {
+                        "adServerCurrency": "EUR",
+                        "granularityMultiplier": 1,
+                        "defaultRates": { "USD": { "EUR": 0.92 }}
+                    },
+                    'criteo': {
+                        fastBidVersion: 'latest',
+                    }
+                });
+            });
+
+            // Instream Config
+            function invokeVideoPlayer(url, cust_params = {}) {
+                uniqode.lgg.info('INSTREAM: Builded VIDEO URL: ' + url);
+                uniqode.ldJs("https://app.dejacast.com/player/gFmelYi7/smTUE7py9-of.js", {}, () => {
+                    uniqode.lgg.info('INSTREAM: Invoke DejaCast player with URL: ' + url);
+                    invokePlayer(url,null,null,null,encodeURI(JSON.stringify(cust_params)));
+                }, ()=>{}, 'body');
+            }
+
+            function initAdserver(bids) {
+
+                uniqode.lgg.info('PREBID: BIDS BackHandler: ');
+                uniqode.lgg.info(bids, 'Bids');
+
+                if (typeof uqhb.initAdserverSetUniqode !== 'undefined' && uqhb.initAdserverSetUniqode) return;
+                uqhb.initAdserverSetUniqode = true;
+
+                var displayAdUnitCodes = [];
+                adUnits.forEach(function(adUnit) {
+                    displayAdUnitCodes.push(adUnit.code);
+                });
+
+                var page_cust_params = {};
+
+                for (const [k, v] of Object.entries(uniqode.target.get())) {
+                    if (Array.isArray(v))
+                        page_cust_params[k] = v.join(',');
+                    else 
+                        page_cust_params[k] = v;  
+                }
+                
+                uniqode.lgg.info(page_cust_params, 'Page level targeting keys') ;   
+
+                googletag.cmd.push(function() {
+                    uqhb.que.push(function() {
+                        uniqode.lgg.info('PREBID: Set targeting for GPT async: ');
+                        uniqode.lgg.info(displayAdUnitCodes, 'display AdUnit Codes');
+                        uqhb.setTargetingForGPTAsync(displayAdUnitCodes);
+                        uniqode.lgg.info('PREBID: DFP: Refreshing slots...');
+                        uniqode.stack.cmd.refreshSlots();
+                    });
+                });
+
+                var video_params = {
+                    cust_params: Object.assign({djc_request: 'principal'}, page_cust_params),
+                    pmnd: 0,
+                    pmxd: 360000,
+                    pmad: 6,
+                    plcmt: 2,
+                    output: 'vast'
+                }
+                if (uniqode.stack.page.oid)
+                    video_params.ppid = uniqode.stack.page.oid;
+
+                var videoUrl = uqhb.adServers.dfp.buildVideoUrl({
+                    adUnit: hbVideoAdUnit.hb[0],
+                    params: Object.assign({iu: hbVideoAdUnit.name}, video_params),
+                });
+                
+                if (! uniqode.stack.page.floff)
+                    invokeVideoPlayer(videoUrl, page_cust_params);
+
+                // DejaCast Proxy
+                window.dj_playerAdsProxy = async function(playerId) {
+
+                    uniqode.lgg.info("DJC Proxy called for Player ID: " + playerId);
+                    uniqode.lgg.info('PREBID New Auction: request for slotdIds: video1');
+
+                    let dj_data = {
+                        enabled: true,
+                        ad: null,
+                        vast_params: {...video_params},
+                    };
+
+                    dj_data.vast_params.cust_params.djc_request = 'proxy';
+                    dj_data.vast_params.cust_params = encodeURI(JSON.stringify(dj_data.vast_params.cust_params));
+
+                    await new Promise((r) => {
+                        uqhb.requestBids({
+                            timeout         : PREBID_TIMEOUT,
+                            adUnitCodes     : ['video1'],
+                            bidsBackHandler : function(bids) {
+                                uniqode.lgg.info('PREBID New Auction: BIDS BackHandler: ');
+                                uniqode.lgg.info(bids, 'Bids');
+
+                                dj_data.ad = uqhb.adServers.dfp.buildVideoUrl({
+                                    adUnit: hbVideoAdUnit.hb[0],
+                                    params: Object.assign({iu: hbVideoAdUnit.name}, video_params),
+                                });
+
+                                return r();
+                            }
+                        });
+                    });
+
+                    uniqode.lgg.info('DJC Proxy data sent: '); 
+                    uniqode.lgg.info(dj_data, 'DJC Proxy Data');
+                    return dj_data;
+                }
+            }
+
+            uqhb.que.push(function() {
+                uqhb.requestBids({
+                    bidsBackHandler: function(bids) { initAdserver(bids); },
+                    timeout: PREBID_TIMEOUT
+                });
+                uniqode.lgg.info('Prebid: Request Bids');
+            });
+
+            uniqode.stack.cmd.enableServices();
+
+            return 1;
+        },
+        requires: ['Prebid library'],
+    },
+    {
+        name: 'Prebid library',
+        url: "https://" + uniqode.stack.cdn + "/" + uniqode.stack.tld + "/extras/prebid.thdgm.uqhb.8.51.2.js",
+        attr: {
+            async: true,
+            defer: true,
+        },
+        consent: [['purpose','consents',[1]]],
+        notInSection: ['noadspage'],
+    },
+]]);
+
+uniqode.stack.flow = [
+    'processTargetings',
+    'processScripts',
+    'preflightRequest',
+    'prepareRequest',
+];
+
+uniqode.stack.run(2);

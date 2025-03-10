@@ -1,0 +1,77 @@
+const video_tags = document.querySelectorAll('.strawberry-video');
+
+if (video_tags) {
+    
+    [...video_tags].forEach((video_tag) => {
+
+        const video_autoplay = (video_tag.dataset.autoplay.toLowerCase() === "true");
+        const video_stream = video_tag.dataset.stream || false;
+        const video_poster = video_tag.dataset.poster || false;
+
+        const video_filename = video_stream.substring(video_stream.lastIndexOf('/') + 1);
+
+        console.log(video_autoplay);
+
+        var player = new Clappr.Player({
+            source: video_stream,
+            poster: video_poster,
+            autoPlay: video_autoplay,
+            muted: true,
+            mute: true,
+            height: '100%',
+            width: '100%',
+            playback: {
+                playInline: true,
+            },
+            events: {
+                onReady: function () {
+                    console.log('GA : READY - ' + video_filename);
+                    gtag('event', 'ready', {
+                        'event_label': video_filename,
+                        'event_category': 'Video Player',
+                        'non_interaction': true
+                    });
+                },
+                onPlay: function () {
+                    console.log('GA : PLAY');
+                    gtag('event', 'play', {
+                        'event_label': video_filename,
+                        'event_category': 'Video Player',
+                        'non_interaction': true
+                    });
+                },
+                onPause: function () {
+                    gtag('event', 'pause', {
+                        'event_label': video_filename,
+                        'event_category': 'Video Player',
+                        'non_interaction': true
+                    });
+                },
+                onStop: function () {
+                    console.log('Video player : STOP VIDEO');
+                    gtag('event', 'stop', {
+                        'event_label': video_filename,
+                        'event_category': 'Video Player',
+                        'non_interaction': true
+                    });
+                },
+                onEnded: function () {
+                    console.log('Video player : COMPLETE');
+                    gtag('event', 'complete', {
+                        'event_label': video_filename,
+                        'event_category': 'Video Player',
+                        'non_interaction': true
+                    });
+                },
+            },
+        });
+
+        player.attachTo(video_tag);
+
+        document.addEventListener("playScp", (ev) => {
+            console.log("playScp ev fired")
+            player.play();
+        })
+
+    });
+}
